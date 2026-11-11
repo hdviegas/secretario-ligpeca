@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "intranet-ligpeca": {
+      "type": "http",
+      "url": "https://intranet-ligpeca.hil.dev.br/mcp",
+      "headers": { "Authorization": "Bearer ${INTRANET_TOKEN}" }
+    }
+  }
+}

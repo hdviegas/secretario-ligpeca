@@ -1,0 +1,7 @@
+{
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": ["mcp__intranet-ligpeca"],
+    "deny": ["Edit", "Write", "NotebookEdit", "Bash(git push:*)", "Bash(git commit:*)"]
+  }
+}
